@@ -1,0 +1,38 @@
+{
+  "hash": "292c28fe",
+  "browserHash": "8b13347f",
+  "optimized": {
+    "turbolinks": {
+      "src": "../../node_modules/turbolinks/dist/turbolinks.js",
+      "file": "turbolinks.js",
+      "fileHash": "ecb1feb6",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "2969a794",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "18fcb66b",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "5ba174d6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OV7ZF7HD": {
+      "file": "chunk-OV7ZF7HD.js"
+    },
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
+}
